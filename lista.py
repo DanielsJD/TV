@@ -51,7 +51,7 @@ def merger_playlist():
     lista = playlist1 + "\n" + playlist2 + "\n" + playlist3
     
     # Aggiungi intestazione EPG
-    lista = '#EXTM3U x-tvg-url="https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/epg.xml"\n' + lista
+    lista = '#EXTM3U x-tvg-url="https://raw.githubusercontent.com/DanielsJD/TV/refs/heads/main/epg.xml"\n' + lista
     
     # Salva la playlist
     output_filename = os.path.join(script_directory, "lista.m3u")
@@ -294,7 +294,7 @@ def eventi_m3u8_generator():
     
                         for channel in event["channels"]:
                             m3u8_content += f"#EXTINF:-1 tvg-id=\"{channel['channel_id']}\" tvg-name=\"{tvg_name}\" group-title=\"Eventi\" tvg-logo=\"\", {tvg_name}\n"
-                            m3u8_content += f"https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d={channel['stream_url']}&header_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&header_referer=https://ilovetoplay.xyz/&header_origin=https://ilovetoplay.xyz\n"
+                            m3u8_content += f"https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d={channel['stream_url']}&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz\n"
     
         return m3u8_content
     
