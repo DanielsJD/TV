@@ -1240,18 +1240,12 @@ http://example.com/Soccer.m3u8
 https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://windnew.newkso.ru/wind/premium870/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
 #EXTINF:-1 tvg-name="----- Motorsport -----" group-title="Eventi", ----- Motorsport -----
 http://example.com/Motorsport.m3u8
-#EXTINF:-1 tvg-id="577" tvg-name="Formula 1 : AWS Emilia Romagna GP - Practice 1 - 16/05/2025 13:30" group-title="Eventi" tvg-logo="", Formula 1 : AWS Emilia Romagna GP - Practice 1 - 16/05/2025 13:30
-https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
 #EXTINF:-1 tvg-id="577" tvg-name="Formula 3 : AWS Emilia Romagna GP - Qualifying - 16/05/2025 15:00" group-title="Eventi" tvg-logo="", Formula 3 : AWS Emilia Romagna GP - Qualifying - 16/05/2025 15:00
 https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
 #EXTINF:-1 tvg-id="577" tvg-name="Formula 2 : AWS Emilia Romagna GP - Qualifying - 16/05/2025 16:00" group-title="Eventi" tvg-logo="", Formula 2 : AWS Emilia Romagna GP - Qualifying - 16/05/2025 16:00
 https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
 #EXTINF:-1 tvg-id="577" tvg-name="Formula 1 : AWS Emilia Romagna GP - Practice 2 - 16/05/2025 17:00" group-title="Eventi" tvg-logo="", Formula 1 : AWS Emilia Romagna GP - Practice 2 - 16/05/2025 17:00
 https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
-#EXTINF:-1 tvg-name="----- Cycling -----" group-title="Eventi", ----- Cycling -----
-http://example.com/Cycling.m3u8
-#EXTINF:-1 tvg-id="878" tvg-name="Giro d'Italia | Stage 7 | Multi-Screen Men | Castel di Sangro – Tagliacozzo (168km) - 16/05/2025 12:40" group-title="Eventi" tvg-logo="", Giro d'Italia | Stage 7 | Multi-Screen Men | Castel di Sangro – Tagliacozzo (168km) - 16/05/2025 12:40
-https://danielsjd-mickeyomg.hf.space/proxy/hls/manifest.m3u8?api_password=DaX9091&d=https://windnew.newkso.ru/wind/premium878/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://ilovetoplay.xyz/&h_origin=https://ilovetoplay.xyz
 #EXTINF:-1 tvg-name="----- Rugby Union -----" group-title="Eventi", ----- Rugby Union -----
 http://example.com/Rugby_Union.m3u8
 #EXTINF:-1 tvg-id="460" tvg-name="United Rugby Championship : Munster vs Treviso - 16/05/2025 21:00" group-title="Eventi" tvg-logo="", United Rugby Championship : Munster vs Treviso - 16/05/2025 21:00
